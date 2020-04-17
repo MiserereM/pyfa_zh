@@ -1,0 +1,100 @@
+{
+  "1": {
+    "nameID": 66672, 
+    "name": "Tech I", 
+    "nameCn": "一级科技"
+  }, 
+  "2": {
+    "iconID": 24150, 
+    "iconSuffix": "t2", 
+    "nameID": 66673, 
+    "name": "Tech II", 
+    "nameCn": "二级科技"
+  }, 
+  "3": {
+    "iconID": 24147, 
+    "iconSuffix": "storyline", 
+    "nameID": 66674, 
+    "name": "Storyline", 
+    "nameCn": "故事线"
+  }, 
+  "4": {
+    "iconID": 24146, 
+    "iconSuffix": "faction", 
+    "nameID": 66675, 
+    "name": "Faction", 
+    "nameCn": "势力"
+  }, 
+  "5": {
+    "iconID": 24149, 
+    "iconSuffix": "officer", 
+    "nameID": 66676, 
+    "name": "Officer", 
+    "nameCn": "官员"
+  }, 
+  "6": {
+    "descriptionID": 66671, 
+    "description": "Modules found in deadspace.", 
+    "descriptionCn": "死亡空间里的装备", 
+    "iconID": 24148, 
+    "iconSuffix": "deadspace", 
+    "nameID": 66677, 
+    "name": "Deadspace", 
+    "nameCn": "死亡空间"
+  }, 
+  "14": {
+    "iconID": 24151, 
+    "iconSuffix": "t3", 
+    "nameID": 66685, 
+    "name": "Tech III", 
+    "nameCn": "三级科技"
+  }, 
+  "15": {
+    "iconID": 24152, 
+    "iconSuffix": "abyssal", 
+    "nameID": 317771, 
+    "name": "Abyssal", 
+    "nameCn": "深渊"
+  }, 
+  "17": {
+    "descriptionID": 317894, 
+    "description": "This item is only available through the New Eden Store or exclusive offers.", 
+    "descriptionCn": "此物品只能通过新伊甸商城或专享活动获得。", 
+    "iconID": 24153, 
+    "iconSuffix": "premium", 
+    "nameID": 317893, 
+    "name": "Premium", 
+    "nameCn": "高级"
+  }, 
+  "19": {
+    "descriptionID": 317896, 
+    "description": "This item is only available for a limited time.", 
+    "descriptionCn": "此物品只能在特定的有限时间内获得。", 
+    "iconID": 24154, 
+    "iconSuffix": "limited", 
+    "nameID": 317895, 
+    "name": "Limited Time", 
+    "nameCn": "限时"
+  }, 
+  "52": {
+    "iconID": 24155, 
+    "iconSuffix": "struct_faction", 
+    "nameID": 550638, 
+    "name": "Structure Faction", 
+    "nameCn": "势力建筑"
+  }, 
+  "53": {
+    "iconID": 24156, 
+    "iconSuffix": "struct_t2", 
+    "nameID": 550639, 
+    "name": "Structure Tech II", 
+    "nameCn": "二级科技建筑"
+  }, 
+  "54": {
+    "iconID": 24157, 
+    "iconSuffix": "struct", 
+    "nameID": 550644, 
+    "name": "Structure Tech I", 
+    "nameCn": "一级科技建筑"
+  }
+}

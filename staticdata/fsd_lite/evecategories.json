@@ -1,0 +1,316 @@
+{
+  "0": {
+    "categoryID": 0, 
+    "categoryNameID": 63539, 
+    "categoryName": "#System", 
+    "categoryNameCn": "#星系", 
+    "published": false
+  }, 
+  "1": {
+    "categoryID": 1, 
+    "categoryNameID": 63540, 
+    "categoryName": "Owner", 
+    "categoryNameCn": "拥有者", 
+    "published": false
+  }, 
+  "10": {
+    "categoryID": 10, 
+    "categoryNameID": 63548, 
+    "categoryName": "Trading", 
+    "categoryNameCn": "贸易", 
+    "published": false
+  }, 
+  "11": {
+    "categoryID": 11, 
+    "categoryNameID": 63549, 
+    "categoryName": "Entity", 
+    "categoryNameCn": "空间实体", 
+    "published": false
+  }, 
+  "14": {
+    "categoryID": 14, 
+    "categoryNameID": 63550, 
+    "categoryName": "Bonus", 
+    "categoryNameCn": "加成", 
+    "iconID": 0, 
+    "published": false
+  }, 
+  "16": {
+    "categoryID": 16, 
+    "categoryNameID": 63551, 
+    "categoryName": "Skill", 
+    "categoryNameCn": "技能", 
+    "iconID": 33, 
+    "published": true
+  }, 
+  "17": {
+    "categoryID": 17, 
+    "categoryNameID": 63552, 
+    "categoryName": "Commodity", 
+    "categoryNameCn": "常用物品", 
+    "iconID": 0, 
+    "published": true
+  }, 
+  "18": {
+    "categoryID": 18, 
+    "categoryNameID": 63553, 
+    "categoryName": "Drone", 
+    "categoryNameCn": "无人机", 
+    "iconID": 0, 
+    "published": true, 
+    "sofBuildClass": "ship"
+  }, 
+  "2": {
+    "categoryID": 2, 
+    "categoryNameID": 63541, 
+    "categoryName": "Celestial", 
+    "categoryNameCn": "天体", 
+    "published": true
+  }, 
+  "20": {
+    "categoryID": 20, 
+    "categoryNameID": 63554, 
+    "categoryName": "Implant", 
+    "categoryNameCn": "植入体", 
+    "iconID": 0, 
+    "published": true
+  }, 
+  "22": {
+    "categoryID": 22, 
+    "categoryNameID": 63555, 
+    "categoryName": "Deployable", 
+    "categoryNameCn": "可部署物品", 
+    "iconID": 0, 
+    "published": true
+  }, 
+  "23": {
+    "categoryID": 23, 
+    "categoryNameID": 63556, 
+    "categoryName": "Starbase", 
+    "categoryNameCn": "母星", 
+    "iconID": 0, 
+    "published": true
+  }, 
+  "24": {
+    "categoryID": 24, 
+    "categoryNameID": 63557, 
+    "categoryName": "Reaction", 
+    "categoryNameCn": "化学反应", 
+    "iconID": 0, 
+    "published": true
+  }, 
+  "25": {
+    "categoryID": 25, 
+    "categoryNameID": 63558, 
+    "categoryName": "Asteroid", 
+    "categoryNameCn": "小行星", 
+    "published": true
+  }, 
+  "26": {
+    "categoryID": 26, 
+    "categoryNameID": 63568, 
+    "categoryName": "WorldSpace", 
+    "categoryNameCn": "内部空间", 
+    "published": false
+  }, 
+  "29": {
+    "categoryID": 29, 
+    "categoryNameID": 63559, 
+    "categoryName": "Abstract", 
+    "categoryNameCn": "抽象", 
+    "published": false
+  }, 
+  "3": {
+    "categoryID": 3, 
+    "categoryNameID": 63542, 
+    "categoryName": "Station", 
+    "categoryNameCn": "空间站", 
+    "published": false
+  }, 
+  "30": {
+    "categoryID": 30, 
+    "categoryNameID": 63572, 
+    "categoryName": "Apparel", 
+    "categoryNameCn": "服饰", 
+    "published": true
+  }, 
+  "32": {
+    "categoryID": 32, 
+    "categoryNameID": 63562, 
+    "categoryName": "Subsystem", 
+    "categoryNameCn": "子系统", 
+    "published": true
+  }, 
+  "34": {
+    "categoryID": 34, 
+    "categoryNameID": 63561, 
+    "categoryName": "Ancient Relics", 
+    "categoryNameCn": "古文物", 
+    "published": true
+  }, 
+  "35": {
+    "categoryID": 35, 
+    "categoryNameID": 63563, 
+    "categoryName": "Decryptors", 
+    "categoryNameCn": "解码器", 
+    "published": true
+  }, 
+  "350001": {
+    "categoryID": 350001, 
+    "categoryNameID": 267649, 
+    "categoryName": "Infantry", 
+    "categoryNameCn": "Infantry", 
+    "published": false
+  }, 
+  "39": {
+    "categoryID": 39, 
+    "categoryNameID": 63565, 
+    "categoryName": "Infrastructure Upgrades", 
+    "categoryNameCn": "基础设施升级件", 
+    "published": true
+  }, 
+  "4": {
+    "categoryID": 4, 
+    "categoryNameID": 63543, 
+    "categoryName": "Material", 
+    "categoryNameCn": "材料", 
+    "iconID": 22, 
+    "published": true
+  }, 
+  "40": {
+    "categoryID": 40, 
+    "categoryNameID": 63564, 
+    "categoryName": "Sovereignty Structures", 
+    "categoryNameCn": "主权设施", 
+    "published": true
+  }, 
+  "41": {
+    "categoryID": 41, 
+    "categoryNameID": 63569, 
+    "categoryName": "Planetary Interaction", 
+    "categoryNameCn": "行星互动", 
+    "published": true
+  }, 
+  "42": {
+    "categoryID": 42, 
+    "categoryNameID": 63566, 
+    "categoryName": "Planetary Resources", 
+    "categoryNameCn": "行星资源", 
+    "published": true
+  }, 
+  "43": {
+    "categoryID": 43, 
+    "categoryNameID": 63567, 
+    "categoryName": "Planetary Commodities", 
+    "categoryNameCn": "行星商品", 
+    "published": true
+  }, 
+  "46": {
+    "categoryID": 46, 
+    "categoryNameID": 63570, 
+    "categoryName": "Orbitals", 
+    "categoryNameCn": "轨道类", 
+    "published": true
+  }, 
+  "49": {
+    "categoryID": 49, 
+    "categoryNameID": 63571, 
+    "categoryName": "Placeables", 
+    "categoryNameCn": "可放置物品", 
+    "published": false
+  }, 
+  "5": {
+    "categoryID": 5, 
+    "categoryNameID": 63560, 
+    "categoryName": "Accessories", 
+    "categoryNameCn": "附件", 
+    "iconID": 33, 
+    "published": true
+  }, 
+  "53": {
+    "categoryID": 53, 
+    "categoryNameID": 63573, 
+    "categoryName": "Effects", 
+    "categoryNameCn": "效果", 
+    "published": false
+  }, 
+  "54": {
+    "categoryID": 54, 
+    "categoryNameID": 63574, 
+    "categoryName": "Lights", 
+    "categoryNameCn": "灯光", 
+    "published": false
+  }, 
+  "59": {
+    "categoryID": 59, 
+    "categoryNameID": 235965, 
+    "categoryName": "Cells", 
+    "categoryNameCn": "单元", 
+    "published": false
+  }, 
+  "6": {
+    "categoryID": 6, 
+    "categoryNameID": 63544, 
+    "categoryName": "Ship", 
+    "categoryNameCn": "舰船", 
+    "published": true
+  }, 
+  "63": {
+    "categoryID": 63, 
+    "categoryNameID": 285070, 
+    "categoryName": "Special Edition Assets", 
+    "categoryNameCn": "特别版用品", 
+    "published": true
+  }, 
+  "65": {
+    "categoryID": 65, 
+    "categoryNameID": 308338, 
+    "categoryName": "Structure", 
+    "categoryNameCn": "建筑", 
+    "published": true
+  }, 
+  "66": {
+    "categoryID": 66, 
+    "categoryNameID": 308340, 
+    "categoryName": "Structure Module", 
+    "categoryNameCn": "建筑装备", 
+    "published": true
+  }, 
+  "7": {
+    "categoryID": 7, 
+    "categoryNameID": 63545, 
+    "categoryName": "Module", 
+    "categoryNameCn": "装备", 
+    "iconID": 67, 
+    "published": true
+  }, 
+  "8": {
+    "categoryID": 8, 
+    "categoryNameID": 63546, 
+    "categoryName": "Charge", 
+    "categoryNameCn": "弹药", 
+    "published": true
+  }, 
+  "87": {
+    "categoryID": 87, 
+    "categoryNameID": 510368, 
+    "categoryName": "Fighter", 
+    "categoryNameCn": "铁骑舰载机", 
+    "published": true
+  }, 
+  "9": {
+    "categoryID": 9, 
+    "categoryNameID": 63547, 
+    "categoryName": "Blueprint", 
+    "categoryNameCn": "蓝图", 
+    "iconID": 21, 
+    "published": true
+  }, 
+  "91": {
+    "categoryID": 91, 
+    "categoryNameID": 531338, 
+    "categoryName": "SKINs", 
+    "categoryNameCn": "涂装", 
+    "published": true
+  }
+}

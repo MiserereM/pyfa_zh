@@ -1,0 +1,473 @@
+{
+  "1": {
+    "descriptionID": 77965, 
+    "description": "Meter", 
+    "descriptionCn": "米", 
+    "displayNameID": 78005, 
+    "displayName": "m", 
+    "displayNameCn": "m", 
+    "name": "Length"
+  }, 
+  "2": {
+    "descriptionID": 77966, 
+    "description": "Kilogram", 
+    "descriptionCn": "千克", 
+    "displayNameID": 78006, 
+    "displayName": "kg", 
+    "displayNameCn": "kg", 
+    "name": "Mass"
+  }, 
+  "3": {
+    "descriptionID": 77967, 
+    "description": "Second", 
+    "descriptionCn": "秒", 
+    "displayNameID": 78007, 
+    "displayName": "sec", 
+    "displayNameCn": "s", 
+    "name": "Time"
+  }, 
+  "4": {
+    "descriptionID": 77968, 
+    "description": "Ampere", 
+    "descriptionCn": "安培", 
+    "displayNameID": 78008, 
+    "displayName": "A", 
+    "displayNameCn": "A", 
+    "name": "Electric Current"
+  }, 
+  "5": {
+    "descriptionID": 77969, 
+    "description": "Kelvin", 
+    "descriptionCn": "开尔文", 
+    "displayNameID": 78009, 
+    "displayName": "K", 
+    "displayNameCn": "K", 
+    "name": "Temperature"
+  }, 
+  "6": {
+    "descriptionID": 77970, 
+    "description": "Mole", 
+    "descriptionCn": "摩尔", 
+    "displayNameID": 78010, 
+    "displayName": "mol", 
+    "displayNameCn": "mol", 
+    "name": "Amount Of Substance"
+  }, 
+  "7": {
+    "descriptionID": 77971, 
+    "description": "Candela", 
+    "descriptionCn": "坎德拉", 
+    "displayNameID": 78011, 
+    "displayName": "cd", 
+    "displayNameCn": "cd", 
+    "name": "Luminous Intensity"
+  }, 
+  "8": {
+    "descriptionID": 77972, 
+    "description": "Square meter", 
+    "descriptionCn": "平方米", 
+    "displayNameID": 78012, 
+    "displayName": "m2", 
+    "displayNameCn": "m2", 
+    "name": "Area"
+  }, 
+  "9": {
+    "descriptionID": 77973, 
+    "description": "Cubic meter", 
+    "descriptionCn": "立方米", 
+    "displayNameID": 78013, 
+    "displayName": "m3", 
+    "displayNameCn": "m3", 
+    "name": "Volume"
+  }, 
+  "10": {
+    "descriptionID": 77974, 
+    "description": "Meter per second", 
+    "descriptionCn": "米/秒", 
+    "displayNameID": 78014, 
+    "displayName": "m/sec", 
+    "displayNameCn": "m/s", 
+    "name": "Speed"
+  }, 
+  "11": {
+    "descriptionID": 77975, 
+    "description": "Meter per second squared", 
+    "descriptionCn": "米/平方秒", 
+    "displayNameID": 78015, 
+    "displayName": "m/sec", 
+    "displayNameCn": "m/s", 
+    "name": "Acceleration"
+  }, 
+  "12": {
+    "descriptionID": 77976, 
+    "description": "Reciprocal meter", 
+    "descriptionCn": "米倒数", 
+    "displayNameID": 78016, 
+    "displayName": "m-1", 
+    "displayNameCn": "m-1", 
+    "name": "Wave Number"
+  }, 
+  "13": {
+    "descriptionID": 77977, 
+    "description": "Kilogram per cubic meter", 
+    "descriptionCn": "千克/立方米", 
+    "displayNameID": 78017, 
+    "displayName": "kg/m3", 
+    "displayNameCn": "kg/m3", 
+    "name": "Mass Density"
+  }, 
+  "14": {
+    "descriptionID": 77978, 
+    "description": "Cubic meter per kilogram", 
+    "descriptionCn": "立方米/千克", 
+    "displayNameID": 78018, 
+    "displayName": "m3/kg", 
+    "displayNameCn": "m3/kg", 
+    "name": "Specific Volume"
+  }, 
+  "15": {
+    "descriptionID": 77979, 
+    "description": "Ampere per square meter", 
+    "descriptionCn": "安培/平方米", 
+    "displayNameID": 78019, 
+    "displayName": "A/m2", 
+    "displayNameCn": "A/m2", 
+    "name": "Current Density"
+  }, 
+  "16": {
+    "descriptionID": 77980, 
+    "description": "Ampere per meter", 
+    "descriptionCn": "安培/米", 
+    "displayNameID": 78020, 
+    "displayName": "A/m", 
+    "displayNameCn": "A/m", 
+    "name": "Magnetic Field Strength"
+  }, 
+  "17": {
+    "descriptionID": 77981, 
+    "description": "Mole per cubic meter", 
+    "descriptionCn": "摩尔/立方米", 
+    "displayNameID": 78021, 
+    "displayName": "mol/m3", 
+    "displayNameCn": "mol/m3", 
+    "name": "Amount-Of-Substance Concentration"
+  }, 
+  "18": {
+    "descriptionID": 77982, 
+    "description": "Candela per square meter", 
+    "descriptionCn": "坎德拉/平方米", 
+    "displayNameID": 78022, 
+    "displayName": "cd/m2", 
+    "displayNameCn": "cd/m2", 
+    "name": "Luminance"
+  }, 
+  "19": {
+    "descriptionID": 77983, 
+    "description": "Kilogram per kilogram, which may be represented by the number 1", 
+    "descriptionCn": "千克/千克，可用数字1表示", 
+    "displayNameID": 78023, 
+    "displayName": "kg/kg = 1", 
+    "displayNameCn": "kg/kg = 1", 
+    "name": "Mass Fraction"
+  }, 
+  "101": {
+    "displayNameID": 78024, 
+    "displayName": "s", 
+    "displayNameCn": "s", 
+    "name": "Milliseconds"
+  }, 
+  "102": {
+    "displayNameID": 78025, 
+    "displayName": "mm", 
+    "displayNameCn": "mm", 
+    "name": "Millimeters"
+  }, 
+  "103": {
+    "name": "MegaPascals"
+  }, 
+  "104": {
+    "descriptionID": 77984, 
+    "description": "Indicates that the unit is a multiplier.", 
+    "descriptionCn": "表明该单位是乘数。", 
+    "displayNameID": 78026, 
+    "displayName": "x", 
+    "displayNameCn": "x", 
+    "name": "Multiplier"
+  }, 
+  "105": {
+    "displayNameID": 78027, 
+    "displayName": "%", 
+    "displayNameCn": "%", 
+    "name": "Percentage"
+  }, 
+  "106": {
+    "displayNameID": 78028, 
+    "displayName": "tf", 
+    "displayNameCn": "tf", 
+    "name": "Teraflops"
+  }, 
+  "107": {
+    "displayNameID": 78029, 
+    "displayName": "MW", 
+    "displayNameCn": "MW", 
+    "name": "MegaWatts"
+  }, 
+  "108": {
+    "descriptionID": 77985, 
+    "description": "Used for resistance.\r\n0.0 = 100% 1.0 = 0%\r\n", 
+    "descriptionCn": "用于抗性。0.0 = 100% 1.0 = 0%", 
+    "displayNameID": 78030, 
+    "displayName": "%", 
+    "displayNameCn": "%", 
+    "name": "Inverse Absolute Percent"
+  }, 
+  "109": {
+    "descriptionID": 77986, 
+    "description": "Used for multipliers displayed as %\r\n1.1 = +10%\r\n0.9 = -10%", 
+    "descriptionCn": "用于乘数，显示为 %\n1.1 = +10%\n0.9 = -10%", 
+    "displayNameID": 78031, 
+    "displayName": "%", 
+    "displayNameCn": "%", 
+    "name": "Modifier Percent"
+  }, 
+  "111": {
+    "descriptionID": 77987, 
+    "description": "Used to modify damage resistance. Damage resistance bonus.\r\n0.1 = 90%\r\n0.9 = 10%", 
+    "descriptionCn": "用来调整伤害抗性。伤害抗性加成。0.1 = 90%\n0.9 = 10%", 
+    "displayNameID": 78032, 
+    "displayName": "%", 
+    "displayNameCn": "%", 
+    "name": "Inversed Modifier Percent"
+  }, 
+  "112": {
+    "descriptionID": 77988, 
+    "description": "Rotation speed.", 
+    "descriptionCn": "转速。", 
+    "displayNameID": 78033, 
+    "displayName": "rad/sec", 
+    "displayNameCn": "r/s", 
+    "name": "Radians/Second"
+  }, 
+  "113": {
+    "displayNameID": 78034, 
+    "displayName": "HP", 
+    "displayNameCn": "HP", 
+    "name": "Hitpoints"
+  }, 
+  "114": {
+    "descriptionID": 77989, 
+    "description": "Giga Joule", 
+    "descriptionCn": "千兆焦耳", 
+    "displayNameID": 78035, 
+    "displayName": "GJ", 
+    "displayNameCn": "GJ", 
+    "name": "capacitor units"
+  }, 
+  "115": {
+    "displayNameID": 78036, 
+    "displayName": "groupID", 
+    "displayNameCn": "组别ID", 
+    "name": "groupID"
+  }, 
+  "116": {
+    "displayNameID": 78037, 
+    "displayName": "typeID", 
+    "displayNameCn": "类别ID", 
+    "name": "typeID"
+  }, 
+  "117": {
+    "descriptionID": 318074, 
+    "description": "1=small 2=medium 3=large 4=x-large", 
+    "descriptionCn": "1=小型 2=中型 3=大型 4=超大型", 
+    "displayNameID": 78038, 
+    "displayName": "", 
+    "displayNameCn": "1=小型  2=中型  3=大型", 
+    "name": "Sizeclass"
+  }, 
+  "118": {
+    "displayNameID": 78039, 
+    "displayName": "Ore units", 
+    "displayNameCn": "矿石单位", 
+    "name": "Ore units"
+  }, 
+  "119": {
+    "displayNameID": 78040, 
+    "displayName": "attributeID", 
+    "displayNameCn": "属性ID", 
+    "name": "attributeID"
+  }, 
+  "120": {
+    "displayNameID": 78041, 
+    "displayName": "points", 
+    "displayNameCn": "点", 
+    "name": "attributePoints"
+  }, 
+  "121": {
+    "descriptionID": 77990, 
+    "description": "Used for real percentages, i.e. the number 5 is 5%", 
+    "descriptionCn": "用于真实百分比，比如数字5表示5%", 
+    "displayNameID": 78042, 
+    "displayName": "%", 
+    "displayNameCn": "%", 
+    "name": "realPercent"
+  }, 
+  "122": {
+    "name": "Fitting slots"
+  }, 
+  "123": {
+    "descriptionID": 77991, 
+    "description": "Shows seconds directly", 
+    "descriptionCn": "直接显示秒", 
+    "displayNameID": 78043, 
+    "displayName": "sec", 
+    "displayNameCn": "s", 
+    "name": "trueTime"
+  }, 
+  "124": {
+    "descriptionID": 77992, 
+    "description": "Used for relative percentages displayed as %", 
+    "descriptionCn": "用于相对百分比，显示为 %", 
+    "displayNameID": 78044, 
+    "displayName": "%", 
+    "displayNameCn": "%", 
+    "name": "Modifier Relative Percent"
+  }, 
+  "125": {
+    "displayNameID": 78045, 
+    "displayName": "N", 
+    "displayNameCn": "N", 
+    "name": "Newton"
+  }, 
+  "126": {
+    "displayNameID": 78046, 
+    "displayName": "ly", 
+    "displayNameCn": "光年", 
+    "name": "Light Year"
+  }, 
+  "127": {
+    "descriptionID": 77993, 
+    "description": "0.0 = 0% 1.0 = 100%", 
+    "descriptionCn": "0.0 = 0% 1.0 = 100%", 
+    "displayNameID": 78047, 
+    "displayName": "%", 
+    "displayNameCn": "%", 
+    "name": "Absolute Percent"
+  }, 
+  "128": {
+    "descriptionID": 77994, 
+    "description": "Mega bits per second", 
+    "descriptionCn": "兆比特/秒", 
+    "displayNameID": 78048, 
+    "displayName": "Mbit/sec", 
+    "displayNameCn": "Mbit/s", 
+    "name": "Drone bandwidth"
+  }, 
+  "129": {
+    "descriptionID": 77995, 
+    "description": "Hours", 
+    "descriptionCn": "小时", 
+    "name": "Hours"
+  }, 
+  "133": {
+    "descriptionID": 77996, 
+    "description": "ISK", 
+    "descriptionCn": "星币", 
+    "displayNameID": 78049, 
+    "displayName": "ISK", 
+    "displayNameCn": "星币", 
+    "name": "Money"
+  }, 
+  "134": {
+    "descriptionID": 77997, 
+    "description": "Bandwidth for PI", 
+    "descriptionCn": "行星互动的带宽", 
+    "displayNameID": 78050, 
+    "displayName": "m3/hour", 
+    "displayNameCn": "立方米/时", 
+    "name": "Logistical Capacity"
+  }, 
+  "135": {
+    "descriptionID": 77998, 
+    "description": "Used to denote distance, 1AU = The distance from the Earth to the Sun.", 
+    "descriptionCn": "表示距离，1AU等于地球到太阳的距离。", 
+    "displayNameID": 78051, 
+    "displayName": "AU", 
+    "displayNameCn": "AU", 
+    "name": "Astronomical Unit"
+  }, 
+  "136": {
+    "descriptionID": 77999, 
+    "description": "Slot number prefix for various purposes", 
+    "descriptionCn": "用于多种场合的槽位数字前缀", 
+    "displayNameID": 78052, 
+    "displayName": "Slot", 
+    "displayNameCn": "槽位", 
+    "name": "Slot"
+  }, 
+  "137": {
+    "descriptionID": 78000, 
+    "description": "For displaying boolean flags 1=True 0=False", 
+    "descriptionCn": "用于显示布尔标记 1=True 0=False", 
+    "displayNameID": 78053, 
+    "displayName": "", 
+    "displayNameCn": "1=True 0=False", 
+    "name": "Boolean"
+  }, 
+  "138": {
+    "descriptionID": 78001, 
+    "description": "Units of something, for example fuel", 
+    "descriptionCn": "某样物品的单位，比如燃料", 
+    "displayNameID": 78054, 
+    "displayName": "units", 
+    "displayNameCn": "单位", 
+    "name": "Units"
+  }, 
+  "139": {
+    "descriptionID": 78002, 
+    "description": "Forces a plus sign for positive values", 
+    "descriptionCn": "用于正值的加号", 
+    "displayNameID": 78055, 
+    "displayName": "+", 
+    "displayNameCn": "+", 
+    "name": "Bonus"
+  }, 
+  "140": {
+    "descriptionID": 78003, 
+    "description": "For anything which is divided by levels", 
+    "descriptionCn": "用于那些以等级划分的事物", 
+    "displayNameID": 78056, 
+    "displayName": "Level", 
+    "displayNameCn": "等级", 
+    "name": "Level"
+  }, 
+  "141": {
+    "descriptionID": 78004, 
+    "description": "For various counts to do with turret, launcher and rig hardpoints", 
+    "descriptionCn": "用于各种炮塔、发射器以及改装件的装配点数量", 
+    "displayNameID": 78057, 
+    "displayName": "hardpoints", 
+    "displayNameCn": "安装座", 
+    "name": "Hardpoints"
+  }, 
+  "142": {
+    "displayNameID": 78058, 
+    "displayName": "1=Male 2=Unisex 3=Female", 
+    "displayNameCn": "1=男性 2=中性 3=女性", 
+    "name": "Sex"
+  }, 
+  "143": {
+    "descriptionID": 312106, 
+    "description": "Date and time", 
+    "descriptionCn": "日期和时间", 
+    "name": "Datetime"
+  }, 
+  "144": {
+    "descriptionID": 561538, 
+    "description": "AU per second", 
+    "descriptionCn": "AU每秒", 
+    "displayNameID": 561537, 
+    "displayName": "AU/s", 
+    "displayNameCn": "AU/s", 
+    "name": "Warp speed"
+  }
+}
